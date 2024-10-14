@@ -41,7 +41,9 @@ The Kùzu graph is constructed using the script `build_kuzu_graph.py`.
 
 ```bash
 $ python build_kuzu_graph.py
+```
 
+```
 Created node table for Physics nobel prize
 Created node table for Chemistry nobel prize
 Created node table for Medicine nobel prize
